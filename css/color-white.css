@@ -75,7 +75,7 @@ Table of contents
 */
 
 /* #Body/loading */	
-body { color: #5a5a5a; }
+body { color: #2037AD; }
 body, .pageFade {	background-color:#fbfbfb;	} 
 
 .inverseStyle { color: #ffffff; }
@@ -83,8 +83,8 @@ body, .pageFade {	background-color:#fbfbfb;	}
 
 .loading_2x .text{ color:#cccccc; }
 .loading_2x .track { border: 2px solid rgba(0, 0, 0, .1); }
-.loading_x .ball, .loading_2x .ball {	border-left: 2px solid rgba(230, 106, 85, 1); }
-.pageFade .site_loading_bar{ background-color: #555555; }
+.loading_x .ball, .loading_2x .ball {	border-left: 2px solid rgb(50, 57, 165); }
+.pageFade .site_loading_bar{ background-color: #2037AD; }
 
 .pageOpenTransition,
 .bodyContainer,
@@ -98,24 +98,24 @@ body, .pageFade {	background-color:#fbfbfb;	}
 
 .header { background-color:#eeeeee; }
 
-.smartMenu_btn{ color: #5a5a5a } 
-.smartMenu_btn .nav_bar .n_bar{ background-color: #5a5a5a; }
+.smartMenu_btn{ color: #2037AD } 
+.smartMenu_btn .nav_bar .n_bar{ background-color: #2037AD; }
 .smartMenu_btn.inverse{ color: #cfcfcf; } 
 .smartMenu_btn.inverse .nav_bar .n_bar{ background-color: #cfcfcf; }
 	
-.header ul.nav>li a{ color: #5a5a5a !important; background-color:transparent; }
-.header ul.nav>li:hover>a { color: #e66a55 !important; background: none; }	
-.header ul.nav>li a.active { color:#e66a55 !important; }
-.header ul.nav>li a.active:hover { color:#e66a55 !important; }
-.header ul.nav li ul li a{ color:#5a5a5a !important; border: none; }
+.header ul.nav>li a{ color: #FFC70A !important; background-color:transparent; }
+.header ul.nav>li:hover>a { color: #FFC70A !important; background: none; }	
+.header ul.nav>li a.active { color:#FFC70A !important; }
+.header ul.nav>li a.active:hover { color:#FFC70A !important; }
+.header ul.nav li ul li a{ color:#FFC70A !important; border: none; }
 .header ul.nav li ul li a:hover { color:#000000 !important; }
-.header ul.nav li ul li a.active { color:#e66a55 !important; border: none; }
-.header ul.nav li ul li a.active:hover { color:#e66a55 !important; border: none; }
+.header ul.nav li ul li a.active { color:#FFC70A !important; border: none; }
+.header ul.nav li ul li a.active:hover { color:#FFC70A !important; border: none; }
 
 .header_content>ul>li .stroke{ background-color:#ffffff; }
 
 
-.dropdown-menu:after{ border-bottom: 6px solid #5a5a5a !important; }
+.dropdown-menu:after{ border-bottom: 6px solid #2037AD !important; }
 
 /* #Menu Inverse Style */
 
