@@ -925,10 +925,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 	background-color:white;	
 	}
 .textBackground_black {
-	background-color:black;	
+	background-color:rgb(12, 38, 122);	
 	}
 .textBackground_grey {
-	background-color:#aaaaaa;	
+	background-color:rgb(114, 135, 167);	
 	}		
 .textBackground_white_transparent {
 	background-color:white;	
