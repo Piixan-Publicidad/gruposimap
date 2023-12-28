@@ -286,7 +286,7 @@ Table of contents
 /* #Margin, Alignment, spacing
 ================================================== */
 
-	p { margin-right:1px;}
+	p { margin-right:1px; }
 	
 	.alignLeft { float:left; }
 	.alignRight { float:right; }
