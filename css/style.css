@@ -921,7 +921,7 @@ Table of contents
 
 /* #Lists
 ================================================== */
-	* { margin: 0; padding: 0; text-align: justify; }
+	* { margin: 0; padding: 0; text-align: center; }
 	 * .slideshow_cycle { margin: 0 auto; }
 	* .slide {
 		background-color: rgb(0, 0, 0, transparent);
