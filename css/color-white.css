@@ -1108,7 +1108,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eae4ce', end
 
 .backGround { background-color: #fbfbfb; }
 .darkStyle .backGround  { background-color: #2a2a2a; }
-.inverseStyle.backGround { background-color: #2037AD; }
+.inverseStyle.backGround { background-color: #5a5a5a40; }
 
 body.borderAdded .pageContent.addPageBorder { background-color: #ffffff; }
 body.borderAdded .move_up_endSection { background-color: #fbfbfb; }
