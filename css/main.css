@@ -3566,3 +3566,7 @@ a.colBlack{ background-color:#000000; width:15px; height:15px; padding:0px !impo
 .tst2 { left:10px !important; top:150px; }
 .tst3 { left:220px !important; }
 .tst4 { left:360px !important; }
+
+.portfolioSingle .row {
+	justify-content: center;
+}
